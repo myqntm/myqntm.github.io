@@ -1,0 +1,3 @@
+[submodule "themes/blogophonic"]
+	path = themes/blogophonic
+	url = https://github.com/formspree/blogophonic-hugo.git

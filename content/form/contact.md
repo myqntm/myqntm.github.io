@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: contact
 name: Contact Us Form
 description: "Always happy to hear from people."
 date: 2019-02-25T13:38:41-06:00
