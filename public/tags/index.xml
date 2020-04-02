@@ -2,23 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cathy Richards</title>
-    <link>http://hi.cathyr.com/tags/</link>
+    <link>https://reverent-murdock-2a0719.netlify.com/tags/</link>
     <description>Recent content in Tags on Cathy Richards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://hi.cathyr.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://reverent-murdock-2a0719.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>hugo-site</title>
-      <link>http://hi.cathyr.com/tags/hugo-site/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://hi.cathyr.com/tags/hugo-site/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

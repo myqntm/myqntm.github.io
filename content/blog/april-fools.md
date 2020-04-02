@@ -7,9 +7,8 @@ author: "cathy"
 draft: false
 images: 
     - /img/april2020.jpeg
-series:
-tags:
 categories:
+  - General
 layout: single-sidebar
 ---
 

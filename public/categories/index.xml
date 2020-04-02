@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cathy Richards</title>
-    <link>http://hi.cathyr.com/categories/</link>
+    <link>https://reverent-murdock-2a0719.netlify.com/categories/</link>
     <description>Recent content in Categories on Cathy Richards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://hi.cathyr.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://reverent-murdock-2a0719.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Theme Features</title>
-      <link>http://hi.cathyr.com/categories/theme-features/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <title>General</title>
+      <link>https://reverent-murdock-2a0719.netlify.com/categories/general/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://hi.cathyr.com/categories/theme-features/</guid>
+      <guid>https://reverent-murdock-2a0719.netlify.com/categories/general/</guid>
       <description></description>
     </item>
     
