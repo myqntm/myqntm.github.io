@@ -19,7 +19,7 @@ preserveTaxonomyNames = true
 [params]
   orgName = ""
   orgLocal = "Brooklyn & Costa Rica"
-  logo = "http://hi.cathyr.com/avatar.jpg"
+  logo = "/img/avatar.jpg"
   # font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "avenir"
