@@ -2,7 +2,7 @@
 title: "2020"
 subtitle: "The longest year ever"
 excerpt: ""
-date: 2020-04-01
+date: 2020-04-01T14:47:22-06:00
 author: "cathy"
 draft: false
 images: 
