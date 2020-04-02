@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cathy Richards</title>
+    <link>https://reverent-murdock-2a0719.netlify.com/</link>
+    <description>Recent content on Cathy Richards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Apr 2020 12:27:33 -0600</lastBuildDate>
+    
+	<atom:link href="https://reverent-murdock-2a0719.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2020</title>
+      <link>https://reverent-murdock-2a0719.netlify.com/blog/april-fools/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://reverent-murdock-2a0719.netlify.com/blog/april-fools/</guid>
+      <description>Whoever opened up the Jumanji game needs to put it the hell away. pic.twitter.com/vVqjLqJ9RK
+&amp;mdash; K. Z. Howell (@KZ_Howell) March 27, 2020  I think we can all agree that it&amp;rsquo;s been a wild year. And while it&amp;rsquo;s been utterly exhausting, it&amp;rsquo;s been amazing in its own way.
+With that said, some stories I&amp;rsquo;ll be sharing here - others will be shared on my other blog.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://reverent-murdock-2a0719.netlify.com/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>https://reverent-murdock-2a0719.netlify.com/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder **</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://reverent-murdock-2a0719.netlify.com/about/</link>
+      <pubDate>Tue, 19 Feb 2019 14:47:22 -0600</pubDate>
+      
+      <guid>https://reverent-murdock-2a0719.netlify.com/about/</guid>
+      <description>about me  Currently, I&#39;m working with the great team over at the The Engine Room as their Technical Project Manager. The Engine Room helps activists, organisations, and other social change agents make the most of data and technology to increase their impact. I&#39;m also co-founder at Pueblo CoLab - a collaborative aiming to help social innovators around the world do good work.
+Surprisingly, I still spend a lot of time living out of my suitcase but feel most at home in Cape Town, Brooklyn or Costa Rica.</description>
+    </item>
+    
+  </channel>
+</rss>
